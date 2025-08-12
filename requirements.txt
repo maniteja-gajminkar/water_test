@@ -9,12 +9,8 @@ anyio==4.4.0
 appdirs==1.4.4
 async-timeout==4.0.3
 asyncssh==2.14.2
-atpublic==4.1.0
 attrs==23.2.0
-
-# Updated AutoTS to fixed version to avoid pip metadata issues:
 AutoTS==0.6.21
-
 billiard==4.2.0
 blinker==1.6.2
 celery==5.4.0
